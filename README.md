@@ -13,6 +13,5 @@ Today's idea is as follows:
 * New Amex Membership 'Green' programme: partner with shops/businesses that promote sustainable development/healthy lifestyle/environmentally friendly products
    - Get extra points whenever purchased from these shops
 * Savings made easier: round up transactions and automatically transfer spare change into savings or as reward points
-* Combine savings idea with small business partnerships idea: get recommendations of small shops/restaurants according to customized preferences and whenever the user spends on these small businesses, collect spare change from the bill as reward points, and the more points collected from repeated transactions in these shops, the user gets more rewards, so that the user has incentives to spend again in these shops. 
-
+* Combine savings idea with small business partnerships idea: get recommendations of small shops/restaurants according to customized preferences and whenever the user spends on these small businesses, collect spare change from the bill as reward points, and the more points collected from repeated transactions in these shops, the user gets more rewards (discounts, free samples...), so that the user has incentives to spend again in these shops.
 
