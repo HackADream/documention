@@ -9,5 +9,6 @@ Today's idea is as follows:
    - Small businesses: get extra profit as more Amex clients spend money on these businesses + gain visibility 
    - Amex: more users make purchases with Amex 
 
+## New Ideas
 
 
