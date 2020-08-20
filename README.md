@@ -10,5 +10,7 @@ Today's idea is as follows:
    - Amex: more users make purchases with Amex 
 
 ## New Ideas
-
+* New Amex Membership 'Green' programme: partner with shops/businesses that promote sustainable development/healthy lifestyle/environmentally friendly products
+   - Get extra points whenever purchased from these shops
+* 
 
