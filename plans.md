@@ -47,7 +47,7 @@ Recommendation System on personalized data
 - Derrick : Decide the variables and training algorithm. Implement the recommendation system with high level deep learning framework. 
  
 
-** Final products expected**
+**Final products expected**
 
 - A full stack app which can demo how recommendation works 
 - Business Proposals  ç
